@@ -17,7 +17,7 @@ function ternaryCheckCity (city) {
 }
 
 function switchOnCharmFromTip(tip){
-  switch
+  switch(expression)
   case: "generous"
   return "Thank you so much."
   
